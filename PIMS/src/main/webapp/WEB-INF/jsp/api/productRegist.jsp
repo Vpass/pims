@@ -12,7 +12,7 @@
 		var itemMngPropId = document.getElementsByName("itemMngPropId");
 		
 		$.each(itemMngPropId, function(index, itemMngPropId) {
-			//alert(itemMngPropId.value); 
+			//alert(itemMngPropId.value);
 		});
 		
 		settingTable();
