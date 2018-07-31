@@ -1,0 +1,4 @@
+table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
+	background-color: whitesmoke; }
+table.dataTable.hover tbody tr:hover.selected, table.dataTable.display tbody tr:hover.selected {
+	background-color: #a9b7d1; }
